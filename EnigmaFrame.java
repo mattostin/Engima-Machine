@@ -122,7 +122,7 @@ public class EnigmaFrame extends JFrame {
         });
     }
 
-    // Method for input validation (you can add your validation logic here)
+    // Method for input validation 
     private Boolean validateSettingsInput(String start, int inner, int middle, int outer, String input) {
         return true; 
     }
